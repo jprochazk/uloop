@@ -1,4 +1,4 @@
-# mpool
+# uloop
 
 This library provides a simple game loop implementation, based on [this article](https://gafferongames.com/post/fix_your_timestep/).
 
